@@ -1,5 +1,7 @@
 # Kelvin · reloj del clima para Übersicht
 
+**Kelvin, el promedio de todos los pronósticos.** · *Kelvin, the average of every forecast.*
+
 ![Kelvin](screenshot.png)
 
 **ES** · El día como un reloj de 24 horas: el cielo y la temperatura de cada hora, la máxima y la mínima, la lluvia y las horas de luz, con el promedio de varios pronósticos. La hora en que estás va marcada con una cuña clara; de día la argolla es azul y de noche azul noche, con la luna en su fase.
